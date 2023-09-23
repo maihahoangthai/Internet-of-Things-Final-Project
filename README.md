@@ -1,5 +1,5 @@
 # Internet of things Fundamentals Final Project
-Bài làm cuối kỳ môn học IoT cơ bản (502068) của TDTU vào tháng 8 năm 2021.
+Bài làm cuối kỳ của tôi trong môn học IoT cơ bản (502068) của TDTU vào tháng 8 năm 2021.
 ## Tổng quan về ý tưởng và bài làm
 Một trong những ví dụ thiết thực nhất mà công nghệ IoT đem đến, đó chính là kỹ thuật chuyển hóa dữ liệu nhiệt chuyển động thu được từ cảm biến PIR sang tín hiệu điện tử digital, giúp tạo nên những hành vi xử lí tự động thông qua Arduino Uno. Mà trong trường hợp như ví dụ bên dưới đây thì hệ thống sẽ rung còi mỗi khi phát hiện chuyển động (motion) trong tầm nhìn của cảm biến PIR. Một thiết kế vô cùng đơn giản và dễ thực hiện nhưng rất thiết thực, có khả năng giúp hỗ trợ, cảnh báo gia chủ trong công việc phòng chống xâm nhập trái phép của người lạ. Dưới đây là một ví dụ về cảnh báo trộm sử dụng cảm biến PIR và Arduino mà tôi đã tự làm được trong những buổi thực hành môn IoT cơ bản.
 
